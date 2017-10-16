@@ -1,0 +1,17 @@
+@CHARSET "ISO-8859-1";
+@import "compass/css3";
+
+
+.logout{
+	 border-radius:40px;
+     height:25px;
+     width:25px;
+     font-size:10px;
+ 
+}
+
+.backg{
+	
+	background-image: url('./img/map-image.png');
+}
+

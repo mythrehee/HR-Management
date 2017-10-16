@@ -1,0 +1,18 @@
+@CHARSET "ISO-8859-1";
+.margin{
+	 margin: 0cm 2cm 0cm 2cm;
+}
+
+table, th,tr, td {
+    border: 1px solid black;
+    
+}
+
+footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  text-align: center;
+}
